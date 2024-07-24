@@ -2,7 +2,7 @@
 
 return (new PhpCsFixer\Config())
     ->setRules([
-        '@PSR12' => true,
+        '@PSR1' => true,
         // 'array_indentation' => true,
         // 'array_syntax' => ['syntax' => 'short'],
         // 'combine_consecutive_unsets' => true,
